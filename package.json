@@ -1,6 +1,6 @@
 {
-  "name": "grommet-css",
-  "version": "1.6.0",
+  "name": "seatrade-admin-theme",
+  "version": "0.0.1",
   "description": "Standalone css for grommet ui library.",
   "main": "build/index.min.css",
   "scripts": {
